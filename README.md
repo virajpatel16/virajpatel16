@@ -32,33 +32,33 @@
 <hr>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true" />
 </picture>
 <hr>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virajpatel16&layout=pie)](https://github.com/virajpatel16/github-readme-stats)
 
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/virajpatel16/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatel16&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/virajpatel16/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatel16&repo=convoychat" />
 </a>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/virajpatel16/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=virajpatel16" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/virajpatel16/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajpatel16&layout=compact&langs_count=8&card_width=320" />
 </a>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
