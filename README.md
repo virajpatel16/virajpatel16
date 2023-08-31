@@ -29,31 +29,11 @@
 
 <img src="file:///D:/github-user-contribution.svg">
 
-<hr>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true" />
-</picture>
-<hr>
-<hr>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virajpatel16&layout=pie)](https://github.com/virajpatel16/github-readme-stats)
 
-<hr>
-<a href="https://github.com/virajpatel16/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatel16&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/virajpatel16/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatel16&repo=convoychat" />
-</a>
-<hr>
+
 <a href="https://github.com/virajpatel16/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=virajpatel16" />
 </a>
@@ -71,7 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajpatel16&show_icons=true&locale=en" alt="virajpatel16" /></p>
 
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajpatel16&" alt="virajpatel16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajpatel16" alt="virajpatel16" /></p>
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virajpatel16&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
