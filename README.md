@@ -1,6 +1,6 @@
 <img src="https://wallpapercave.com/wp/wp1828900.png" width="100%"><br>
 <h1 align="center">Hi 👋, I'm Viraj Gondaliya</h1>
-<h3 align="center">A passionate Android & web Developer from India</h3>
+<h3 align="center">BCA | Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajpatel16&label=Profile%20views&color=0e75b6&style=flat" alt="virajpatel16" /> </p>
 <hr>
