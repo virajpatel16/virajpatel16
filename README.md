@@ -1,7 +1,9 @@
 <img src="https://wallpapercave.com/wp/wp1828900.png" width="100%"><br>
 <h1 align="center">Hi 👋, I'm Viraj Gondaliya</h1>
 <h3 align="center">BCA | Android Developer</h3>
-
+<p>This is Viraj Gondaliya, A Android Developer  and a Competitive Programming Enthusiast  ,
+who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
+ Learning while HOPING & HUSTLING!!! </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajpatel16&label=Profile%20views&color=0e75b6&style=flat" alt="virajpatel16" /> </p>
 <hr>
 
